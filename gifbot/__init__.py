@@ -27,7 +27,7 @@ class gifBot:
     Bot = Bot(BotEnv.TOKEN)
 
 class Msg:
-    START = " 😅\nYou can use me in InLine mode and search for available GIFS.\n"
+    START = " 😅\n`Iam a simple gif search bot"
     WL_GIF = "https://media.tenor.com/images/baebd65d376f80120d6d008139f76a16/tenor.gif"
     keyboard = [
         [
