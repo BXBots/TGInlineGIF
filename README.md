@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://heroku.com/deploy"><img src="
 
-https://www.herokucdn.com/deploy?template=https://GitHub.com/tginlinegif
+https://www.herokucdn.com/deploy?template=https://GitHub.com/bxbots/tginlinegif
 
 ---
 #### Clone 
